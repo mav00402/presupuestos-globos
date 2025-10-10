@@ -1,0 +1,32 @@
+body {
+  background: linear-gradient(to bottom right, #fff7e6, #ffe0b2);
+}
+
+.warm-card {
+  background-color: #fff3cd;
+  border: 1px solid #f1d08c;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.list-group-item {
+  border-color: #f0c36d !important;
+}
+
+.btn-success {
+  background-color: #ffb84d;
+  border-color: #ffa31a;
+  color: #fff;
+}
+.btn-success:hover {
+  background-color: #ffa31a;
+}
+
+.btn-primary {
+  background-color: #ff9933;
+  border-color: #e68a00;
+}
+.btn-primary:hover {
+  background-color: #e68a00;
+}
+
