@@ -17,7 +17,9 @@ const items = [
   { id: 12, name: "Globo Número 86cm", price: 18500 },
   { id: 12, name: "Globo Burbuja de 24 pulgadas", price: 20000 },
   { id: 13, name: "Globo Figura", price: 12000 },
-  { id: 14, name: "Vinilo Personalizado", price: 1400 }
+  { id: 14, name: "Vinilo Personalizado", price: 1400 },
+  { id: 15, name: "Base de 5 globos de 5 pulgadas", price: 1000 },
+  { id: 16, name: "Base de 9 globos de 5 pulgadas + 1 metalizado de 23 pulgadas", price: 1500 }
 ];
 
 // Estado
@@ -394,3 +396,4 @@ document.addEventListener('DOMContentLoaded', () => {
   renderCurrent();
   renderHistory();
 });
+
