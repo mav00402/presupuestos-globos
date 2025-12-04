@@ -7,18 +7,18 @@ const items = [
   { id: 4, name: "Globo impreso de 12 pulgadas", price: 4600 },
   { id: 5, name: "Globo Metalizado de 18 pulgadas", price: 5600 },
   { id: 6, name: "Globo Metalizado Impreso de 18 pulgadas", price: 5700 },
-  { id: 7, name: "Globo Orbz de 20 pulgadas", price: 14500 },
-  { id: 8, name: "Globo Burbuja de 20 pulgadas", price: 14500 },
-  { id: 9, name: "Globo Número 70cm", price: 14500 },
-  { id: 10, name: "Globo Burbuja con piñata de 18 pulgadas", price: 16500 },
-  { id: 11, name: "Globo Burbuja con led de 20 pulgadas", price: 18000 },
-  { id: 12, name: "Globo Número 86cm", price: 18500 },
-  { id: 12, name: "Globo Burbuja de 24 pulgadas", price: 20000 },
-  { id: 13, name: "Globo Burbuja de 24 pulgadas con Led", price: 24000 },
-  { id: 14, name: "Globo Figura", price: 12000 },
-  { id: 15, name: "Vinilo Personalizado", price: 1400 },
-  { id: 16, name: "Base de 5 globos de 5 pulgadas", price: 1000 },
-  { id: 17, name: "Base de 9 globos de 5 pulgadas + 1 metalizado de 23 pulgadas", price: 1500 }
+  { id: 7, name: "Globo Figura", price: 12000 },
+  { id: 8, name: "Globo Número 70cm", price: 14500 },
+  { id: 9, name: "Globo Orbz de 20 pulgadas", price: 14500 },
+  { id: 10, name: "Globo Burbuja de 18 pulgadas", price: 14500 },
+  { id: 11, name: "Globo Burbuja con piñata de 18 pulgadas", price: 16500 },
+  { id: 12, name: "Globo Burbuja con led de 18 pulgadas", price: 18000 },
+  { id: 13, name: "Globo Número 86cm", price: 18500 },
+  { id: 14, name: "Globo Burbuja de 24 pulgadas", price: 20000 },
+  { id: 15, name: "Globo Burbuja de 24 pulgadas con Led", price: 24000 },
+  { id: 16, name: "Vinilo Personalizado", price: 1400 },
+  { id: 17, name: "Base de 5 globos de 5 pulgadas", price: 1000 },
+  { id: 18, name: "Base de 9 globos de 5 pulgadas + 1 metalizado de 23 pulgadas", price: 1500 }
 ];
 
 // Estado
