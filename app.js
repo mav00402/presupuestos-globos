@@ -14,10 +14,11 @@ const items = [
   { id: 11, name: "Globo Burbuja con led de 20 pulgadas", price: 18000 },
   { id: 12, name: "Globo Número 86cm", price: 18500 },
   { id: 12, name: "Globo Burbuja de 24 pulgadas", price: 20000 },
-  { id: 13, name: "Globo Figura", price: 12000 },
-  { id: 14, name: "Vinilo Personalizado", price: 1400 }+
-  { id: 15, name: "Base de 5 globos de 5 pulgadas", price: 1000 },
-  { id: 16, name: "Base de 9 globos de 5 pulgadas + 1 metalizado de 23 pulgadas", price: 1500 }
+  { id: 13, name: "Globo Burbuja de 24 pulgadas con Led", price: 24000 },
+  { id: 14, name: "Globo Figura", price: 12000 },
+  { id: 15, name: "Vinilo Personalizado", price: 1400 },
+  { id: 16, name: "Base de 5 globos de 5 pulgadas", price: 1000 },
+  { id: 17, name: "Base de 9 globos de 5 pulgadas + 1 metalizado de 23 pulgadas", price: 1500 }
 ];
 
 // Estado
@@ -190,7 +191,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Exportar a PDF 
   // y espacio extra antes de la tabla (startY aumentado)
-  
+
   async function exportCurrentToPdf() {
     if (resultArea.style.display === 'none') {
       alert('Primero calculá el pedido para luego exportarlo a PDF.');
